@@ -1,0 +1,32 @@
+VvnPrem,8,240.0-
+
+
+
+Sbstn Chc,6,120.0-
+
+
+
+KntVnll,2,1.0-
+
+
+
+Munchkin,7,15.0-
+
+
+
+Bavarian,12,35.0-
+
+
+
+Butternut,15,40.0-
+
+
+
+Bavivian,16,50.0-
+
+
+
+Ally stbry,8,45.0-
+
+
+DnDn,2,9.0-
